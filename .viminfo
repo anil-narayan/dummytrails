@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1728034639,,"wq!"
+|2,0,1728043517,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,36 +28,78 @@
 |3,1,36,0,1,0,1728029479,"s"
 
 # File marks:
-'0  5  20  ~/bsmeding.docker-playbook.yaml
-|4,48,5,20,1728034639,"~/bsmeding.docker-playbook.yaml"
-'1  13  15  ~/mission/tasks/main.yml
-|4,49,13,15,1728032609,"~/mission/tasks/main.yml"
-'2  5  12  ~/first-playbook.yaml
-|4,50,5,12,1728032503,"~/first-playbook.yaml"
-'3  9  14  ~/mission/tasks/main.yml
-|4,51,9,14,1728032367,"~/mission/tasks/main.yml"
-'4  9  14  ~/mission/tasks/main.yml
-|4,52,9,14,1728032367,"~/mission/tasks/main.yml"
-'5  48  6  ~/mission/files/index.html
-|4,53,48,6,1728032261,"~/mission/files/index.html"
-'6  5  12  ~/first
-|4,54,5,12,1728032057,"~/first"
-'7  2  20  ~/inventory.ini
-|4,55,2,20,1728032000,"~/inventory.ini"
-'8  1  0  ~/.ssh/id_rsa.pub
-|4,56,1,0,1728031902,"~/.ssh/id_rsa.pub"
-'9  28  28  ~/.ssh/authorized_keys
-|4,57,28,28,1728031439,"~/.ssh/authorized_keys"
+'0  9  24  ~/.ssh/config
+|4,48,9,24,1728043517,"~/.ssh/config"
+'1  1  0  ~/.ssh/config
+|4,49,1,0,1728043048,"~/.ssh/config"
+'2  1  0  ~/.ssh/config
+|4,50,1,0,1728043048,"~/.ssh/config"
+'3  5  20  ~/bsmeding.docker-playbook.yaml
+|4,51,5,20,1728034639,"~/bsmeding.docker-playbook.yaml"
+'4  13  15  ~/mission/tasks/main.yml
+|4,52,13,15,1728032609,"~/mission/tasks/main.yml"
+'5  5  12  ~/first-playbook.yaml
+|4,53,5,12,1728032503,"~/first-playbook.yaml"
+'6  9  14  ~/mission/tasks/main.yml
+|4,54,9,14,1728032367,"~/mission/tasks/main.yml"
+'7  9  14  ~/mission/tasks/main.yml
+|4,55,9,14,1728032367,"~/mission/tasks/main.yml"
+'8  48  6  ~/mission/files/index.html
+|4,56,48,6,1728032261,"~/mission/files/index.html"
+'9  5  12  ~/first
+|4,57,5,12,1728032057,"~/first"
 
 # Jumplist (newest first):
+-'  9  24  ~/.ssh/config
+|4,39,9,24,1728043517,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1728043156,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1728043048,"~/.ssh/config"
 -'  5  20  ~/bsmeding.docker-playbook.yaml
 |4,39,5,20,1728034639,"~/bsmeding.docker-playbook.yaml"
+-'  5  20  ~/bsmeding.docker-playbook.yaml
+|4,39,5,20,1728034639,"~/bsmeding.docker-playbook.yaml"
+-'  5  20  ~/bsmeding.docker-playbook.yaml
+|4,39,5,20,1728034639,"~/bsmeding.docker-playbook.yaml"
+-'  5  20  ~/bsmeding.docker-playbook.yaml
+|4,39,5,20,1728034639,"~/bsmeding.docker-playbook.yaml"
+-'  1  0  ~/bsmeding.docker-playbook.yaml
+|4,39,1,0,1728034601,"~/bsmeding.docker-playbook.yaml"
+-'  1  0  ~/bsmeding.docker-playbook.yaml
+|4,39,1,0,1728034601,"~/bsmeding.docker-playbook.yaml"
+-'  1  0  ~/bsmeding.docker-playbook.yaml
+|4,39,1,0,1728034601,"~/bsmeding.docker-playbook.yaml"
 -'  1  0  ~/bsmeding.docker-playbook.yaml
 |4,39,1,0,1728034601,"~/bsmeding.docker-playbook.yaml"
 -'  13  15  ~/mission/tasks/main.yml
 |4,39,13,15,1728032609,"~/mission/tasks/main.yml"
 -'  13  15  ~/mission/tasks/main.yml
 |4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  13  15  ~/mission/tasks/main.yml
+|4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  13  15  ~/mission/tasks/main.yml
+|4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  13  15  ~/mission/tasks/main.yml
+|4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  13  15  ~/mission/tasks/main.yml
+|4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  13  15  ~/mission/tasks/main.yml
+|4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  13  15  ~/mission/tasks/main.yml
+|4,39,13,15,1728032609,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032589,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032589,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032589,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032589,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032589,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032589,"~/mission/tasks/main.yml"
 -'  9  14  ~/mission/tasks/main.yml
 |4,39,9,14,1728032589,"~/mission/tasks/main.yml"
 -'  9  14  ~/mission/tasks/main.yml
@@ -70,6 +112,30 @@
 |4,39,5,12,1728032503,"~/first-playbook.yaml"
 -'  5  12  ~/first-playbook.yaml
 |4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
+-'  5  12  ~/first-playbook.yaml
+|4,39,5,12,1728032503,"~/first-playbook.yaml"
 -'  1  0  ~/first-playbook.yaml
 |4,39,1,0,1728032466,"~/first-playbook.yaml"
 -'  1  0  ~/first-playbook.yaml
@@ -78,6 +144,54 @@
 |4,39,1,0,1728032466,"~/first-playbook.yaml"
 -'  1  0  ~/first-playbook.yaml
 |4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  1  0  ~/first-playbook.yaml
+|4,39,1,0,1728032466,"~/first-playbook.yaml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
+-'  9  14  ~/mission/tasks/main.yml
+|4,39,9,14,1728032367,"~/mission/tasks/main.yml"
 -'  9  14  ~/mission/tasks/main.yml
 |4,39,9,14,1728032367,"~/mission/tasks/main.yml"
 -'  9  14  ~/mission/tasks/main.yml
@@ -98,160 +212,59 @@
 |4,39,1,0,1728032277,"~/mission/tasks/main.yml"
 -'  1  0  ~/mission/tasks/main.yml
 |4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
+-'  1  0  ~/mission/tasks/main.yml
+|4,39,1,0,1728032277,"~/mission/tasks/main.yml"
 -'  48  6  ~/mission/files/index.html
 |4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  48  6  ~/mission/files/index.html
-|4,39,48,6,1728032261,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  1  0  ~/mission/files/index.html
-|4,39,1,0,1728032257,"~/mission/files/index.html"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  5  12  ~/first
-|4,39,5,12,1728032057,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
--'  1  0  ~/first
-|4,39,1,0,1728032008,"~/first"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/config
+	*	1728043498	0
+	"	9	24
+	^	9	25
+	.	9	24
+	+	27	0
+	+	8	12
+	+	15	12
+	+	22	12
+	+	23	24
+	+	16	24
+	+	9	24
 
 > ~/bsmeding.docker-playbook.yaml
 	*	1728034636	0
